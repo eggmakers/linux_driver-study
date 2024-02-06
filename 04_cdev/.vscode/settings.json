@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "init.h": "c",
+        "fs.h": "c",
+        "cdev.h": "c",
+        "kdev_t.h": "c",
+        "moduleparam.h": "c",
+        "list.h": "c"
+    }
+}
